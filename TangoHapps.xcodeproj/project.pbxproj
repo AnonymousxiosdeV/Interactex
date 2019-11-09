@@ -19,7 +19,6 @@
 		02D809C91A80CFDB009DDB4C /* graph@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02D809C51A80CFDB009DDB4C /* graph@2x.png */; };
 		02DDB0191A7D5D44009C98EB /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02DDB0181A7D5D44009C98EB /* Accelerate.framework */; };
 		02DDB01A1A7D5D4E009C98EB /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02DDB0181A7D5D44009C98EB /* Accelerate.framework */; };
-		2517683619FB9EF30060FF83 /* THTestsHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 2517683519FB9EF30060FF83 /* THTestsHelper.m */; };
 		251F674419C48F5300EF9807 /* iphoneBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 251F674219C48F5300EF9807 /* iphoneBg.png */; };
 		251F674519C48F5300EF9807 /* iphoneBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 251F674319C48F5300EF9807 /* iphoneBg@2x.png */; };
 		251F678419C4A1A300EF9807 /* hideVPmode.png in Resources */ = {isa = PBXBuildFile; fileRef = 251F678019C4A1A300EF9807 /* hideVPmode.png */; };
@@ -39,7 +38,6 @@
 		25981C8319D6BCC600DE4131 /* zoomMinus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 25981C7F19D6BCC600DE4131 /* zoomMinus@2x.png */; };
 		25981C8419D6BCC600DE4131 /* zoomPlus.png in Resources */ = {isa = PBXBuildFile; fileRef = 25981C8019D6BCC600DE4131 /* zoomPlus.png */; };
 		25981C8519D6BCC600DE4131 /* zoomPlus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 25981C8119D6BCC600DE4131 /* zoomPlus@2x.png */; };
-		25B05DB119FA95C10019E431 /* TangoHappsUnitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B05DB019FA95C10019E431 /* TangoHappsUnitTests.m */; };
 		25D5EE371A4331C300FBCA47 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A2CAD8D182C47FC002AB9E8 /* Images.xcassets */; };
 		25D5EE421A4331D000FBCA47 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A2CAD8D182C47FC002AB9E8 /* Images.xcassets */; };
 		25E57B1519C077C6006B61A8 /* playicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 25E57B1319C077C6006B61A8 /* playicon.png */; };
@@ -585,7 +583,6 @@
 		9AB4255E1CFC7AEA00B52062 /* runningSpeed.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB4255A1CFC7AEA00B52062 /* runningSpeed.png */; };
 		9AB4255F1CFC7AEA00B52062 /* runningSpeed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB4255B1CFC7AEA00B52062 /* runningSpeed@2x.png */; };
 		9AB490391886E54500BCB1C6 /* THAutorouteProperties.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9AB490381886E54500BCB1C6 /* THAutorouteProperties.xib */; };
-		9AB49B061A6AA8E5006B22E5 /* THIntegrationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB49B051A6AA8E5006B22E5 /* THIntegrationTests.m */; };
 		9AB777F417E5FF4100F82424 /* THInvocationConnectionLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB777F317E5FF4100F82424 /* THInvocationConnectionLine.m */; };
 		9AB7783E17E6643000F82424 /* THPropertySelectionPopup.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB7783D17E6643000F82424 /* THPropertySelectionPopup.m */; };
 		9AB7784317E66A2300F82424 /* THInvocationConnectionProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB7784117E66A2300F82424 /* THInvocationConnectionProperties.m */; };
@@ -658,7 +655,6 @@
 		9AC3CD231800255400363CD2 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AC3CD221800255400363CD2 /* CoreText.framework */; };
 		9ACBC5EC18B782DB002EC4DC /* THEditableObjectCommonProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBC5EA18B782DB002EC4DC /* THEditableObjectCommonProperties.m */; };
 		9ACBC62918B782FB002EC4DC /* THEditableObjectCommonProperties.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9ACBC62818B782FB002EC4DC /* THEditableObjectCommonProperties.xib */; };
-		9ACD2F361A9C8CFE000AD0FE /* THCopyingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ACD2F351A9C8CFE000AD0FE /* THCopyingTests.m */; };
 		9ACD2F511A9CC097000AD0FE /* THiPhoneScreenItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ACD2F501A9CC097000AD0FE /* THiPhoneScreenItem.m */; };
 		9ACD2F7A1A9CEAB4000AD0FE /* THPaddingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ACD2F791A9CEAB4000AD0FE /* THPaddingLabel.m */; };
 		9ACE30B61A9277570089D669 /* song2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9AF5035D167B84B40020241C /* song2.mp3 */; };
@@ -962,13 +958,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		25B05DB219FA95C10019E431 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 9A351180167B7A6800C7484B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9A351188167B7A6800C7484B;
-			remoteInfo = TangoHapps;
-		};
 		9A1FBD6E187ED71900699B61 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 9A1FBD6A187ED71900699B61 /* Firmata.xcodeproj */;
@@ -1132,7 +1121,6 @@
 		25981C7F19D6BCC600DE4131 /* zoomMinus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zoomMinus@2x.png"; sourceTree = "<group>"; };
 		25981C8019D6BCC600DE4131 /* zoomPlus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zoomPlus.png; sourceTree = "<group>"; };
 		25981C8119D6BCC600DE4131 /* zoomPlus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zoomPlus@2x.png"; sourceTree = "<group>"; };
-		25B05DAC19FA95C00019E431 /* TangoHappsUnitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TangoHappsUnitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25B05DAF19FA95C10019E431 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25B05DB019FA95C10019E431 /* TangoHappsUnitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TangoHappsUnitTests.m; sourceTree = "<group>"; };
 		25B05DB819FA95F10019E431 /* ImportHeaders.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImportHeaders.h; sourceTree = "<group>"; };
@@ -2273,13 +2261,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		25B05DA919FA95C00019E431 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9A351186167B7A6800C7484B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -2419,8 +2400,8 @@
 				9A351193167B7A6800C7484B /* TangoHapps */,
 				9AF5FFF6167B82F70020241C /* TangoHappsClient */,
 				25B05DAD19FA95C00019E431 /* TangoHappsUnitTests */,
-				9A35118C167B7A6800C7484B /* Frameworks */,
 				9A35118A167B7A6800C7484B /* Products */,
+				9A35118C167B7A6800C7484B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -2429,7 +2410,6 @@
 			children = (
 				9A351189167B7A6800C7484B /* Interactex Designer.app */,
 				9AF5FFF1167B82F70020241C /* Interactex Client.app */,
-				25B05DAC19FA95C00019E431 /* TangoHappsUnitTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -4155,24 +4135,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		25B05DAB19FA95C00019E431 /* TangoHappsUnitTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 25B05DB419FA95C10019E431 /* Build configuration list for PBXNativeTarget "TangoHappsUnitTests" */;
-			buildPhases = (
-				25B05DA819FA95C00019E431 /* Sources */,
-				25B05DA919FA95C00019E431 /* Frameworks */,
-				25B05DAA19FA95C00019E431 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				25B05DB319FA95C10019E431 /* PBXTargetDependency */,
-			);
-			name = TangoHappsUnitTests;
-			productName = TangoHappsUnitTests;
-			productReference = 25B05DAC19FA95C00019E431 /* TangoHappsUnitTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		9A351188167B7A6800C7484B /* TangoHapps */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9A3511A7167B7A6800C7484B /* Build configuration list for PBXNativeTarget "TangoHapps" */;
@@ -4221,14 +4183,9 @@
 				CLASSPREFIX = TH;
 				LastSwiftMigration = 0720;
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0720;
+				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = "Technische Universität München";
 				TargetAttributes = {
-					25B05DAB19FA95C00019E431 = {
-						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 7PLLZ436SG;
-						TestTargetID = 9A351188167B7A6800C7484B;
-					};
 					9A351188167B7A6800C7484B = {
 						DevelopmentTeam = WCM2L8RG39;
 					};
@@ -4239,11 +4196,11 @@
 			};
 			buildConfigurationList = 9A351183167B7A6800C7484B /* Build configuration list for PBXProject "TangoHapps" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				English,
+				Base,
 			);
 			mainGroup = 9A35117E167B7A6800C7484B;
 			productRefGroup = 9A35118A167B7A6800C7484B /* Products */;
@@ -4266,7 +4223,6 @@
 			targets = (
 				9A351188167B7A6800C7484B /* TangoHapps */,
 				9AF5FFF0167B82F70020241C /* TangoHappsClient */,
-				25B05DAB19FA95C00019E431 /* TangoHappsUnitTests */,
 			);
 		};
 /* End PBXProject section */
@@ -4366,13 +4322,6 @@
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
-		25B05DAA19FA95C00019E431 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9A351187167B7A6800C7484B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -4862,17 +4811,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		25B05DA819FA95C00019E431 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9AB49B061A6AA8E5006B22E5 /* THIntegrationTests.m in Sources */,
-				25B05DB119FA95C10019E431 /* TangoHappsUnitTests.m in Sources */,
-				2517683619FB9EF30060FF83 /* THTestsHelper.m in Sources */,
-				9ACD2F361A9C8CFE000AD0FE /* THCopyingTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9A351185167B7A6800C7484B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -5328,11 +5266,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		25B05DB319FA95C10019E431 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 9A351188167B7A6800C7484B /* TangoHapps */;
-			targetProxy = 25B05DB219FA95C10019E431 /* PBXContainerItemProxy */;
-		};
 		9A1FBD74187ED74600699B61 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Firmata;
@@ -5367,140 +5300,53 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		25B05DB519FA95C10019E431 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				INFOPLIST_FILE = TangoHappsUnitTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.tum.in.www1.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Interactex Designer.app/Interactex Designer";
-				USER_HEADER_SEARCH_PATHS = "Frameworks/libpd/** Frameworks/cocos2d-iphone-classic-2.2/cocos2d/** Frameworks/cocos2d-iphone-classic-2.2/external/** Frameworks/cocos2d-iphone-classic-2.2/CocosDenshion/** Frameworks/CorePlot/**";
-				VALID_ARCHS = "armv7 arm64";
-			};
-			name = Debug;
-		};
-		25B05DB619FA95C10019E431 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				INFOPLIST_FILE = TangoHappsUnitTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.tum.in.www1.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Interactex Designer.app/Interactex Designer";
-				USER_HEADER_SEARCH_PATHS = "Frameworks/libpd/** Frameworks/cocos2d-iphone-classic-2.2/cocos2d/** Frameworks/cocos2d-iphone-classic-2.2/external/** Frameworks/cocos2d-iphone-classic-2.2/CocosDenshion/** Frameworks/CorePlot/**";
-				VALID_ARCHS = "armv7 arm64";
-			};
-			name = Release;
-		};
-		25B05DB719FA95C10019E431 /* AddHoc */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				INFOPLIST_FILE = TangoHappsUnitTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.tum.in.www1.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Interactex Designer.app/Interactex Designer";
-				USER_HEADER_SEARCH_PATHS = "Frameworks/libpd/** Frameworks/cocos2d-iphone-classic-2.2/cocos2d/** Frameworks/cocos2d-iphone-classic-2.2/external/** Frameworks/cocos2d-iphone-classic-2.2/CocosDenshion/** Frameworks/CorePlot/**";
-				VALID_ARCHS = "armv7 arm64";
-			};
-			name = AddHoc;
-		};
 		9A3511A5167B7A6800C7484B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEFINES_MODULE = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = "$(TARGET_BUILD_DIR)";
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -5514,20 +5360,41 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				DEFINES_MODULE = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = "$(TARGET_BUILD_DIR)";
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
@@ -5547,7 +5414,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TangoHapps/TangoHapps-Prefix.pch";
 				INFOPLIST_FILE = "TangoHapps/TangoHapps-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-ObjC";
@@ -5571,7 +5438,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TangoHapps/TangoHapps-Prefix.pch";
 				INFOPLIST_FILE = "TangoHapps/TangoHapps-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-ObjC";
@@ -5589,20 +5456,41 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				DEFINES_MODULE = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = "$(TARGET_BUILD_DIR)";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
@@ -5623,7 +5511,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TangoHapps/TangoHapps-Prefix.pch";
 				INFOPLIST_FILE = "TangoHapps/TangoHapps-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-ObjC";
@@ -5647,14 +5535,14 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TangoHappsClient/TangoHappsClient-Prefix.pch";
 				INFOPLIST_FILE = "TangoHappsClient/TangoHappsClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = de.tum.in.www1.InteractexClientApp;
 				PRODUCT_NAME = "Interactex Client";
 				SKIP_INSTALL = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "TangoHapps/classes/utils/TangoHapps-Bridging-Header.h";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "./Frameworks/**";
 				WRAPPER_EXTENSION = app;
 			};
@@ -5670,14 +5558,14 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TangoHappsClient/TangoHappsClient-Prefix.pch";
 				INFOPLIST_FILE = "TangoHappsClient/TangoHappsClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = de.tum.in.www1.InteractexClientApp;
 				PRODUCT_NAME = "Interactex Client";
 				SKIP_INSTALL = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "TangoHapps/classes/utils/TangoHapps-Bridging-Header.h";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "./Frameworks/**";
 				WRAPPER_EXTENSION = app;
 			};
@@ -5693,14 +5581,14 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TangoHappsClient/TangoHappsClient-Prefix.pch";
 				INFOPLIST_FILE = "TangoHappsClient/TangoHappsClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = de.tum.in.www1.InteractexClientApp;
 				PRODUCT_NAME = "Interactex Client";
 				SKIP_INSTALL = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "TangoHapps/classes/utils/TangoHapps-Bridging-Header.h";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "./Frameworks/**";
 				WRAPPER_EXTENSION = app;
 			};
@@ -5709,16 +5597,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		25B05DB419FA95C10019E431 /* Build configuration list for PBXNativeTarget "TangoHappsUnitTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				25B05DB519FA95C10019E431 /* Debug */,
-				25B05DB619FA95C10019E431 /* Release */,
-				25B05DB719FA95C10019E431 /* AddHoc */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		9A351183167B7A6800C7484B /* Build configuration list for PBXProject "TangoHapps" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

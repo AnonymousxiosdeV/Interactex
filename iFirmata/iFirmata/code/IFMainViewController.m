@@ -257,7 +257,7 @@ const NSInteger IFDiscoveryTime = 3;
     [[BLEDiscovery sharedInstance] stopScanning];
     
     [UIView animateWithDuration:0.3f animations:^{
-        self.table.contentInset = UIEdgeInsetsMake(refreshHeaderTop, 0, 0, 0);
+        self.table.contentInset = UIEdgeInsetsMake(self->refreshHeaderTop, 0, 0, 0);
         
         [self.activityIndicator stopAnimating];
         self.refreshingLabel.text = [NSString stringWithFormat:@"Pull down to refresh"];
